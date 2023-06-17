@@ -1,0 +1,36 @@
+.showButton {
+    background-color: indianred;
+    color: white;
+    padding: 10px 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.work {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    background-color: silver;
+}
+
+.iconBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: gray;
+}
+
+.descriptionBlock {
+    background-color: rosybrown;
+}
+
+.description {
+    background-color: olive;
+}
+
+.title {
+    background-color: olive;
+}

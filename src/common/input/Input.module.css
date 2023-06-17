@@ -1,0 +1,29 @@
+.inputWrapper {
+
+}
+
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.span {}
+
+.superInput {
+
+}
+
+.className {
+
+}
+
+.error {
+    color: red;
+}
+
+.errorInput {
+    border: 1px solid red;
+}
+
