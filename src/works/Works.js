@@ -6,7 +6,7 @@ import Work from "./work/Work";
 
 const Works = () => {
     return (
-        <div className={s.worksBlock}>
+        <section className={s.worksBlock}>
             <div className={`${containerStyles.container} ${s.worksContainer}`}>
                 <h2>My works</h2>
                 <div className={s.works}>
@@ -15,7 +15,7 @@ const Works = () => {
                     <Work title={'Todolist'} description={'This is my pet project, which will show my skills'}/>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

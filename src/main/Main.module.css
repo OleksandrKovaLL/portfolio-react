@@ -3,13 +3,17 @@
     background-color: antiquewhite;
 }
 
+.mainContainer {
+   flex-wrap: wrap;
+}
+
 .text {
-    width: 300px;
+    width: 286px;
     background-color: gray;
 }
 
 .photo {
-    width: 300px;
+    width: 286px;
     height: 400px;
     background-color: gray;
 }

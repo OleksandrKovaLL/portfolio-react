@@ -1,4 +1,8 @@
 .nav {
+
+}
+
+.navList {
     display: flex;
     width: 300px;
     gap: 10px;
